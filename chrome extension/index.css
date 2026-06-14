@@ -1,0 +1,42 @@
+body {
+    margin:0;
+    padding: 10px;
+    min-width: 430px;
+}
+
+input {
+    width: 100%;
+    padding: 10px 10px 10px 10px;
+    box-sizing: border-box;
+    border: 1px solid rgb(5, 87, 87);
+    margin-bottom: 10px;
+}
+
+#input-btn {
+    background-color: rgb(5, 87, 87);
+    color: white;
+    padding: 10px 10px 10px 10px; 
+  
+}
+
+#save-btn{
+    background-color: rgb(255, 255, 255);
+    color: rgb(5, 87, 87);
+    padding: 10px 10px 10px 10px; 
+}
+#del-btn {
+    background-color: rgb(5, 87, 87);
+    color: white;
+    padding: 10px 10px 10px 10px; 
+  
+}
+#cpy-btn {
+    background-color: rgb(255, 255, 255);
+    color: rgb(5, 87, 87);
+    padding: 10px 10px 10px 10px; 
+  
+}
+
+a{
+    color: rgb(5, 87, 87);
+}
